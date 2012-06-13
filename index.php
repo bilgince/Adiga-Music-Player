@@ -71,7 +71,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 
 <div id="content">
-<p class="large"><a href="http://scmplayer.net">SCM Music Player</a> is a free and open source web music player, that brings a seamless music experience to your website. Support Wordpress, Tumblr, Blogger.</p>
+<p class="large"><a href="http://www.bilgince.net">Adiga Music Player</a> is a free and open source web music player, that brings a seamless music experience to your website. Support Wordpress, Tumblr, Blogger.</p>
 
 <a name="wizard"></a>
 <h3>SETUP WIZARD</h3>
