@@ -260,7 +260,7 @@ You can fork my source code, or report issues at Github.
 <li>YouTube Javascript API (<a href="http://code.google.com/apis/youtube/js_api_reference.html">http://code.google.com/apis/youtube/js_api_reference.html</a>)</li> 
 </ul> 
  
-<p>SCM Music Player is created by <a href="http://cshum.com">Adrian C Shum</a>. Trying to get my desire into web technologies, by creating fun and useful stuffs for the web.</p> 
+<p>SCM Music Player is created by <a href="http://bilgince.net">www.bilgince.net</a>. Trying to get my desire into web technologies, by creating fun and useful stuffs for the web.</p> 
  
 <h3 id="contact">CONTACT</h3> 
 <ul class="bullet"> 
